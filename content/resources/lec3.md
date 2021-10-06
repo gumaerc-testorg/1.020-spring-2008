@@ -1,4 +1,5 @@
 ---
+content_type: resource
 description: Lecture summary on a model to evaluate impact of source size and microbial
   degradation rates on time-dependent concentrations of chlorinated hydrocarbons (TCE
   and daughter products). The system is open -- flowing water dissolves NAPL and transports
@@ -8,6 +9,5 @@ file_location: /coursemedia/1-020-ecology-ii-engineering-for-sustainability-spri
 file_type: application/pdf
 resourcetype: Document
 title: Chemical Kinetics, Dechlorination
-type: resource
 uid: b2397a9e-7170-3ab4-0218-f3304b3d72bf
 ---

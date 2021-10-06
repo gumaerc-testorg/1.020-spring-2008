@@ -1,4 +1,5 @@
 ---
+content_type: resource
 description: Lecture summary on developing alternative models to examine impacts of
   pesticide on a pest (prey) population and on a predator that feeds on the pest population
   and consider implications of different model assumptions.
@@ -7,6 +8,5 @@ file_location: /coursemedia/1-020-ecology-ii-engineering-for-sustainability-spri
 file_type: application/pdf
 resourcetype: Document
 title: Population Modeling, Pesticide Impact
-type: resource
 uid: 9fc6c07e-e281-1059-9a0a-debf72d2cb57
 ---

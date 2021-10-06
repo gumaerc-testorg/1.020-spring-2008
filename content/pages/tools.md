@@ -1,6 +1,6 @@
 ---
+content_type: page
 title: Tools
-type: page
 uid: 2a3b4b56-1a0f-6d27-0195-939c76d43a28
 ---
 
