@@ -2,8 +2,7 @@
 content_type: resource
 description: Problem set on evaluating the energy performance of a house using a MATLAB
   model.
-file: /media/courses/1-020-ecology-ii-engineering-for-sustainability-spring-2008/4559df843c3e191fe8a53141f11723db_assn3.pdf
-file_location: /coursemedia/1-020-ecology-ii-engineering-for-sustainability-spring-2008/4559df843c3e191fe8a53141f11723db_assn3.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-020-ecology-ii-engineering-for-sustainability-spring-2008/4559df843c3e191fe8a53141f11723db_assn3.pdf
 file_type: application/pdf
 resourcetype: Document
 title: "Problem Set 3 \u2013 Thermal analysis for a small house"

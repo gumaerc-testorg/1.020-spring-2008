@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: Practice questions and solutions for the first exam of the course.
-file: /media/courses/1-020-ecology-ii-engineering-for-sustainability-spring-2008/64a29069438d0214e790af913562d0cc_practice1.pdf
-file_location: /coursemedia/1-020-ecology-ii-engineering-for-sustainability-spring-2008/64a29069438d0214e790af913562d0cc_practice1.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-020-ecology-ii-engineering-for-sustainability-spring-2008/64a29069438d0214e790af913562d0cc_practice1.pdf
 file_type: application/pdf
 resourcetype: Document
 title: Exam 1
