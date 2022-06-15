@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides information on lecture topics along with handouts
+  summarizing the lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 2bb5b4f5-59b6-0424-b61d-8b6f049d1e7c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section includes handouts summarizing the lectures; note that many of the handouts span two lecture sessions.
@@ -35,7 +41,7 @@ LECTURE NOTES
 {{< tdopen >}}
 
 
-Introduction, basic concepts ([PDF]({{< baseurl >}}/resources/lec1_2))
+Introduction, basic concepts ({{% resource_link 860c054b-34c4-5afc-0d55-20bdaad4a063 "PDF" %}})
 
 Modeling: Everglades
 
@@ -65,7 +71,7 @@ Modeling: Everglades
 {{< tdopen >}}
 
 
-Chemical kinetics ([PDF]({{< baseurl >}}/resources/lec3))
+Chemical kinetics ({{% resource_link b2397a9e-7170-3ab4-0218-f3304b3d72bf "PDF" %}})
 
 Modeling: dechlorination
 
@@ -80,7 +86,7 @@ Modeling: dechlorination
 {{< tdopen >}}
 
 
-Population modeling ([PDF]({{< baseurl >}}/resources/lec4))
+Population modeling ({{% resource_link 9fc6c07e-e281-1059-9a0a-debf72d2cb57 "PDF" %}})
 
 Modeling: pesticide impact
 
@@ -95,7 +101,7 @@ Modeling: pesticide impact
 {{< tdopen >}}
 
 
-Closed cycles ([PDF]({{< baseurl >}}/resources/lec5))
+Closed cycles ({{% resource_link a0dfb5fe-3b47-30f6-a7de-24d9f88201a6 "PDF" %}})
 
 Modeling: nutrient enrichment
 
@@ -110,7 +116,7 @@ Modeling: nutrient enrichment
 {{< tdopen >}}
 
 
-Networks ([PDF]({{< baseurl >}}/resources/lec6_7))
+Networks ({{% resource_link 5806b60c-a12e-b1b9-a86d-dd3ce52f96f5 "PDF" %}})
 
 Modeling: traffic
 
@@ -146,7 +152,7 @@ Modeling: vehicle emissions
 {{< tdopen >}}
 
 
-Basic thermodynamic concepts ([PDF]({{< baseurl >}}/resources/lec8_9))
+Basic thermodynamic concepts ({{% resource_link 501c6576-c7cd-c411-ae6e-f3892ee92baf "PDF" %}})
 
 Modeling: building energy
 
@@ -176,7 +182,7 @@ Modeling: building energy
 {{< tdopen >}}
 
 
-Radiative energy transfer ([PDF]({{< baseurl >}}/resources/lec10))
+Radiative energy transfer ({{% resource_link 12374759-a0d4-f5d3-3142-191462688c7f "PDF" %}})
 
 Modeling: building energy
 
@@ -191,7 +197,7 @@ Modeling: building energy
 {{< tdopen >}}
 
 
-Open system thermodynamics ([PDF]({{< baseurl >}}/resources/lec11))
+Open system thermodynamics ({{% resource_link 278c8d21-7773-697f-ea8d-4790e4f5efc5 "PDF" %}})
 
 Modeling: heat discharge to a stream
 
@@ -212,7 +218,7 @@ Modeling: heat discharge to a stream
 {{< tdopen >}}
 
 
-Mass transport: advection, diffusion ([PDF]({{< baseurl >}}/resources/lec12_13))
+Mass transport: advection, diffusion ({{% resource_link 2eab4727-26e2-df65-6623-a586d7bf1074 "PDF" %}})
 
 Modeling: air quality
 
@@ -263,7 +269,7 @@ Modeling: air quality
 {{< tdopen >}}
 
 
-Present value, discounting ([PDF]({{< baseurl >}}/resources/lec15))
+Present value, discounting ({{% resource_link cc07f0b0-44c6-5b68-c690-c07ea0a74e77 "PDF" %}})
 
 Modeling: building energy revisited
 
@@ -278,7 +284,7 @@ Modeling: building energy revisited
 {{< tdopen >}}
 
 
-Optimization problems, resource allocation ([PDF]({{< baseurl >}}/resources/lec16_17))
+Optimization problems, resource allocation ({{% resource_link a3bc7242-a152-0912-a349-cd9b0c42d7ec "PDF" %}})
 
 Modeling: crop irrigation
 
@@ -317,7 +323,7 @@ MATLAB optimization tutorial
 {{< tdopen >}}
 
 
-Derived supply, equilibrium analysis ([PDF]({{< baseurl >}}/resources/lec19))
+Derived supply, equilibrium analysis ({{% resource_link 19dbb80e-bf7a-bf85-5a22-fe6c82d0e800 "PDF" %}})
 
 Modeling: groundwater supply
 
@@ -332,7 +338,7 @@ Modeling: groundwater supply
 {{< tdopen >}}
 
 
-Multiple objectives, Pareto optimality ([PDF]({{< baseurl >}}/resources/lec20))
+Multiple objectives, Pareto optimality ({{% resource_link 72600bfc-ad4a-a6c8-2021-48d7d49d9209 "PDF" %}})
 
 Modeling: revenue vs. environmental quality
 
@@ -347,7 +353,7 @@ Modeling: revenue vs. environmental quality
 {{< tdopen >}}
 
 
-Life cycle analysis ([PDF]({{< baseurl >}}/resources/lec21_22))
+Life cycle analysis ({{% resource_link 5d1ef386-d360-eac9-48e5-7051f836ccbd "PDF" %}})
 
 Modeling: life cycle example
 

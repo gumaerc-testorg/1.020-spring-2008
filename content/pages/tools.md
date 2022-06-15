@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: "This section provides guidelines on using MATLAB\xAE and links to helpful\
+  \ resources."
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
 title: Tools
 uid: 2a3b4b56-1a0f-6d27-0195-939c76d43a28
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Using MATLAB®

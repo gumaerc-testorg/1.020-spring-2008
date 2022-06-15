@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: "This section provides MATLAB\xAE References and readings on modeling\
+  \ and thermodynamics."
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: d581f1ec-41b4-8d63-7de7-30a0dcaaadd9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 MATLAB® References

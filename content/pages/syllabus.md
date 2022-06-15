@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides information on desired learning outcomes,
+  course focus, course meeting times, course logistics, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: f628f5e1-8456-8b48-44e3-26ba67a7b224
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -57,7 +63,7 @@ You can form your own teams of 3 people or contact the TA for help in forming a 
 
 ### MATLAB®
 
-Modeling in this class relies largely on MATLAB. You should have access to MATLAB software (Basic MATLAB and the Optimization Toolbox). See the [tools]({{< baseurl >}}/pages/tools) section for more information on MATLAB.
+Modeling in this class relies largely on MATLAB. You should have access to MATLAB software (Basic MATLAB and the Optimization Toolbox). See the {{% resource_link 2a3b4b56-1a0f-6d27-0195-939c76d43a28 "tools" %}} section for more information on MATLAB.
 
 ### Recitations
 
