@@ -5,6 +5,7 @@ file: /courses/1-020-ecology-ii-engineering-for-sustainability-spring-2008/299ce
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Assignment supplement containing Meterological data for Problem Set 3.
-

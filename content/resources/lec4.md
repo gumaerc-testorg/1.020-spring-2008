@@ -7,6 +7,7 @@ file: /courses/1-020-ecology-ii-engineering-for-sustainability-spring-2008/9fc6c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture summary on developing alternative models to examine impacts of pesticide on a pest (prey) population and on a predator that feeds on the pest population and consider implications of different model assumptions.
-

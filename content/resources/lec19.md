@@ -7,6 +7,7 @@ file: /courses/1-020-ecology-ii-engineering-for-sustainability-spring-2008/19dbb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture summary on extending the derived demand model to include the cost of supplying water from a single groundwater well and combine derived supply and demand to obtain an equilibrium solution.
-
