@@ -53,6 +53,6 @@ Typing **help \[command\]** at the MATLAB prompt will give you a brief explanati
 
 If you **don't** know what command you are confused about, typing **help** at the MATLAB prompt will give you a list of categories. Then typing **help \[category\]** will produce a list of commands in **\[category\]**. For example, one of the categories is **graphics**. Typing **help graphics** produces a list of the MATLAB graphics commands.
 
-{{% resource_link "e6f19f97-fb2a-4def-8634-a9bad3e37fdc" "MathWorks Homepage" %}}: The makers of MATLAB. Information on acquiring MathWorks products plus links to documentation, etc.
+[MathWorks Homepage](http://www.mathworks.com/): The makers of MATLAB. Information on acquiring MathWorks products plus links to documentation, etc.
 
-{{% resource_link "7c43faff-cb92-4e99-a4b6-04b5dd4cacd7" "MathWorks Support" %}}: This is a useful site that has technical information, Web version of Helpdesk, and a downloadable user-library of scripts. Everything you ever dreamed of knowing about MATLAB, plus you can always email MathWorks.
+[MathWorks Support](http://www.mathworks.com/support/): This is a useful site that has technical information, Web version of Helpdesk, and a downloadable user-library of scripts. Everything you ever dreamed of knowing about MATLAB, plus you can always email MathWorks.
